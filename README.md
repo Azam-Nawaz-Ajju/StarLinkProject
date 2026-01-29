@@ -51,7 +51,7 @@ A retail company wants to analyze its sales performance to:
 
 ---
 
-## 4. Project Structure
+```text
 StarLinkProject/
 │
 ├── data/
@@ -67,3 +67,5 @@ StarLinkProject/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
+
