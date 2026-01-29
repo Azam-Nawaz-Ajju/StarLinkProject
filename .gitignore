@@ -17,11 +17,6 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints/
 
-# Data files (DO NOT PUSH)
-data/
-*.xlsx
-*.csv
-
 # Secrets
 config.py
 *.env
