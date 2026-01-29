@@ -52,18 +52,17 @@ A retail company wants to analyze its sales performance to:
 ---
 
 ## 4. Project Structure
-
 StarLinkProject/
 │
 ├── data/
-│ └── StarLinkRetail.xlsx
+│   └── StarLinkRetail.xlsx
 │
 ├── src/
-│ ├── main.py
-│ ├── data_loader.py
-│ ├── data_cleaner.py
-│ ├── db_loader.py
-│ └── config.py
+│   ├── main.py
+│   ├── data_loader.py
+│   ├── data_cleaner.py
+│   ├── db_loader.py
+│   └── config.py
 │
 ├── requirements.txt
 ├── .gitignore
