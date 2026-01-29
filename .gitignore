@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (DO NOT PUSH)
+data/
+*.xlsx
+*.csv
+
+# Secrets
+config.py
+*.env
+
+# VS Code
+.vscode/
