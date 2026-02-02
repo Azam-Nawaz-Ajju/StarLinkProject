@@ -3,7 +3,7 @@
 This project demonstrates a complete **end-to-end data analytics pipeline** using a real-world retail dataset.
 
 **Flow:**  
-Excel → Python (ETL) → PostgreSQL (Supabase) → Looker Studio → GitHub
+
 
 The objective is to clean raw transactional data, load it into a cloud PostgreSQL database, and visualize insights using Looker Studio.
 
